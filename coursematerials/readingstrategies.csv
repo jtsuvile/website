@@ -1,0 +1,42 @@
+"ID","working memory span score","gender","span class","recollection","strategy","header","topic","other","last"
+"1",51,"male","high",0.833,"pays attention to text structure",116.3063,58.17045,45.4246,59.1327
+"2",32,"female","medium",0.8,"fast linear reader",27.5428,16.87635,16.7977,14.13
+"3",12,"male","low",0.8,"fast linear reader",44.70745,24.54205,27.0377,24.9422
+"4",50,"female","high",1,"pays attention to text structure",28.267,26.227,41.06255,40.61095
+"5",52,"male","high",0.8,"pays attention to text structure",308.8749,62.33115,45.6368,61.37825
+"6",42,"female","high",0.7,"fast linear reader",41.1432,16.64735,16.64285,15.35165
+"7",33,"male","high",0.666,"randomly repeating readers",53.1526,62.0127,59.9335,36.32025
+"8",19,"female","low",0.9,"fast linear reader",82.82495,36.85795,35.10915,40.22505
+"9",21,"male","medium",0.833,"randomly repeating readers",143.6448,53.6355,45.9422,40.4771
+"10",23,"female","medium",0.833,"slow linear reader",55.50775,44.9646,45.8778,40.4137
+"11",19,"male","low",0.5,"slow linear reader",40.13995,35.94485,42.7135,45.67335
+"12",51,"female","high",0.916,"fast linear reader",39.0352,34.3049,32.27585,30.04625
+"13",31,"male","medium",0.6,"slow linear reader",70.00595,42.419,39.97305,38.46025
+"14",21,"female","medium",1,"slow linear reader",39.2063,44.8486,51.16215,42.37895
+"15",49,"male","high",0.8,"fast linear reader",48.3727,32.46285,28.1666,28.77785
+"16",30,"female","medium",0.666,"slow linear reader",13.4349,26.34815,53.58545,86.2615
+"17",18,"male","low",0.6,"slow linear reader",64.3612,50.51395,53.754,41.2941
+"18",45,"female","high",0.583,"slow linear reader",65.6852,43.20305,39.55695,36.74655
+"19",18,"male","low",0.5,"slow linear reader",67.83205,42.4507,45.74145,37.90565
+"20",20,"female","low",0.583,"slow linear reader",50.2151,43.6475,40.1847,45.9999
+"21",31,"male","medium",0.7,"fast linear reader",54.49225,24.64005,25.5934,26.6472
+"22",20,"female","low",0.75,"fast linear reader",68.82275,39.14595,31.92465,38.60035
+"23",20,"male","low",0.5,"pays attention to text structure",68.02415,38.4669,37.9616,46.24855
+"24",22,"female","medium",0.583,"fast linear reader",27.0609,13.03495,16.013445,18.1246
+"25",45,"male","high",0.8,"pays attention to text structure",49.52055,32.7261,42.63495,38.75605
+"26",22,"female","medium",0.9,"fast linear reader",43.77755,36.26015,35.666,22.62355
+"27",36,"male","high",0.75,"fast linear reader",44.5366,22.07535,33.65515,32.78205
+"28",33,"female","high",0.916,"randomly repeating readers",54.5571,59.0472,64.79105,56.105
+"29",70,"male","high",0.9,"pays attention to text structure",133.05915,69.9693,43.98,48.6991
+"30",18,"female","low",0.9,"slow linear reader",95.01015,61.1526,60.1978,59.2468
+"31",23,"male","medium",0.5,"fast linear reader",42.38535,29.97725,30.86865,36.57945
+"32",32,"female","medium",0.833,"fast linear reader",43.01085,36.33315,42.08045,37.8576
+"33",50,"male","high",0.9,"fast linear reader",54.5358,39.75845,32.18625,33.417
+"34",57,"female","high",0.833,"fast linear reader",32.5075,17.70385,18.85485,26.6793
+"35",18,"male","low",0.9,"fast linear reader",100.5929,30.20185,33.02375,33.462635
+"36",22,"female","medium",0.583,"fast linear reader",29.3784,17.61205,17.74325,16.2571
+"37",12,"male","low",0.5,"slow linear reader",62.97245,47.6149,50.16535,46.23445
+"38",44,"female","high",1,"pays attention to text structure",194.1419,55.94955,40.14185,33.8562
+"39",18,"male","low",0.75,"fast linear reader",32.71505,28.1706,31.4753,27.21335
+"40",18,"female","low",0.666,"fast linear reader",38.66065,32.78555,33.2483,31.77617
+"41",NA,NA,NA,NA,NA,NA,NA,NA,NA
